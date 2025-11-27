@@ -1,6 +1,6 @@
 # DatoCMS Icon Font Picker
 
-![Cover](https://raw.githubusercontent.com/rolandtoth/datocms-plugin-iconfontpicker/main/docs/cover.png)
+![Cover](https://raw.githubusercontent.com/datocms/datocms-plugin-icon-font-picker/main/docs/cover.png)
 
 DatoCMS plugin to visually select icons from any icon font.
 
@@ -10,13 +10,13 @@ DatoCMS plugin to visually select icons from any icon font.
 - **search**: icons can be searched
 - **filters**: optional filters can be used to show only a subset of icons, based on their names
 
-[Preview](https://raw.githubusercontent.com/rolandtoth/datocms-plugin-iconfontpicker/main/docs/preview.gif)
+[Preview](https://raw.githubusercontent.com/datocms/datocms-plugin-icon-font-picker/main/docs/preview.gif)
 
 ## Configuration
 
 ### Plugin settings
 
-[Plugin settings](https://raw.githubusercontent.com/rolandtoth/datocms-plugin-iconfontpicker/main/docs/plugin-settings.png)
+[Plugin settings](https://raw.githubusercontent.com/datocms/datocms-plugin-icon-font-picker/main/docs/plugin-settings.png)
 
 #### General Options
 
@@ -75,7 +75,7 @@ The plugin was made to be self-contained and to be used with any icon fonts. Bec
 After installing the plugin, you'll need to add a new JSON field type to a block or model, go to the Presentation tab, and select "Icon Font Picker" for the Field editor.
 
 [JSON field configuration](
-https://raw.githubusercontent.com/rolandtoth/datocms-plugin-iconfontpicker/main/docs/json-field-configuration.png)
+https://raw.githubusercontent.com/datocms/datocms-plugin-icon-font-picker/main/docs/json-field-configuration.png)
 
 ## Usage
 

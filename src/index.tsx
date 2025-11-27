@@ -13,7 +13,7 @@ import ReactDOM from "react-dom";
 import ConfigScreen from "./entrypoints/ConfigScreen";
 
 const PLUGIN_NAME = "Icon Font Picker";
-const PLUGIN_ID = "iconfontpicker";
+const PLUGIN_ID = "icon-font-picker";
 
 connect({
   renderConfigScreen(ctx: RenderConfigScreenCtx) {
